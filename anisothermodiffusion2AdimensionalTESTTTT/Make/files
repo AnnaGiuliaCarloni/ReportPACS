@@ -1,0 +1,3 @@
+anisothermodiffusion2AdimensionalTESTTTT.C
+
+EXE = $(FOAM_APPBIN)/anisothermodiffusion2AdimensionalTESTTTT

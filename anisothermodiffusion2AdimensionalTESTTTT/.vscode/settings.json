@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "anisothermodiffusion2AdimensionalTESTTTT.C": "cpp"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#9c85a3",
+        "activityBar.activeBorder": "#dfd09f",
+        "activityBar.background": "#9c85a3",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#dfd09f",
+        "activityBarBadge.foreground": "#15202b",
+        "statusBar.background": "#84698c",
+        "statusBar.border": "#84698c",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#9c85a3",
+        "titleBar.activeBackground": "#84698c",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.border": "#84698c",
+        "titleBar.inactiveBackground": "#84698c99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#84698c"
+}

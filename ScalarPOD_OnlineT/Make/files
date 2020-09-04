@@ -1,0 +1,3 @@
+ScalarPOD_OnlineT.C
+MOR.C
+EXE = $(FOAM_USER_APPBIN)/ScalarPOD_OnlineT
